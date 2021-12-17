@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋, I'm AnonymousGCA (aka GABRYCA)
 
-<!--
-**GABRYCA/GABRYCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Get in contact on discord: <a href="https://discord.io/gabryca">Click me!</a></h2>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning: **Java, Bootstrap, C++, Node.js.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on many school projects and Robocup Junior Soccer SuperLight!
+  
+<br>
+
+<a href="https://github.com/gabryca">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gabryca&show_icons=true&include_all_commits=true&theme=radical&count_private=true" alt="AnonymousGCA's github stats" />
+</a>
+<br>
+<br>
+<a href="https://github.com/GABRYCA/Algoritmi_scuola">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gabryca&repo=Algoritmi_scuola&theme=radical" />
+</a>
