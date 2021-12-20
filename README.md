@@ -2,7 +2,7 @@
 
 <h2>Get in contact on discord: <a href="https://discord.io/gabryca">Click me!</a></h2>
 
-- 🌱 I’m currently learning: **Java, Bootstrap, C++, Node.js.**
+- 🌱 I’m currently learning: **Java, Bootstrap, C++, Node.js, PHP.**
 
 - 🔭 I’m currently working on many school projects and Robocup Junior Soccer SuperLight!
   
