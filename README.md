@@ -13,6 +13,9 @@
 </a>
 <br>
 <br>
+<a href=#><img src="contributions.svg"></a>
+<br>
+<br>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/gabryca/count.svg" />
