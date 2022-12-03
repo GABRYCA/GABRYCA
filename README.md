@@ -13,6 +13,12 @@
 </a>
 <br>
 <br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/gabryca/count.svg" />
+</p>
+<br>
+<br>
 <details>
   <summary>Main repository</summary>
 <a href="https://github.com/GABRYCA/Algoritmi_scuola">
