@@ -30,3 +30,5 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gabryca&repo=Algoritmi_scuola&theme=radical" />
 </a>
 </details>
+
+<img src="https://www.anonymousgca.eu/img/anonymousgca_countryball.jpg" alt="Immagine Countryball AnonymousGCA con Caffè">
