@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning: **Java, Bootstrap, C, C++, C#, Node.js, PHP, HTML, CSS, JQuery, Javascript, Assembly, Arduino.**
 
-- 🔭 I’m currently working on many school projects and Robocup Junior Soccer SuperLight!
+- 🔭 I’m currently working on many school projects and Robocup Junior Soccer!
 
 - 🎆 Personal Website: <a href="https://anonymousgca.eu/">Visit!</a>
   
