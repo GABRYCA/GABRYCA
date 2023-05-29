@@ -1,6 +1,6 @@
 ### 👋, I'm AnonymousGCA (aka GABRYCA)
 
-<h2>Get in contact on discord: <a href="https://discord.io/gabryca">Click me!</a></h2>
+<h2>Get in contact on discord: <a href="https://discord.io/anonymousgca">Click me!</a></h2>
 
 - 🌱 I’m currently learning: **Java, Bootstrap, C, C++, C#, Node.js, PHP, HTML, CSS, JQuery, Javascript, Assembly, Arduino.**
 
