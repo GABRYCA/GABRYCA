@@ -14,13 +14,23 @@
 <p align="center">
   <a href="https://github.com/gabryca">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gabryca&show_icons=true&include_all_commits=true&theme=radical&count_private=true" alt="AnonymousGCA's github stats" />
+    <br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabryca&theme=radical&layout=compact"/>
+    <br>
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabryca&theme=radical"/>
   </a>
 </p>
+
 <br>
-<br>
+
+<hr>
+
 <p align="center">
   <a href=#><img src="contributions.svg"></a>
 </p>
+
 <br>
 <br>
 <p align="center"> 
