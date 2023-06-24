@@ -52,11 +52,14 @@
   </a>
 </p>
 
-<details>
-  <summary>Main repository</summary>
-<a href="https://github.com/GABRYCA/Algoritmi_scuola">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gabryca&repo=Algoritmi_scuola&theme=radical" />
-</a>
+<details align="center">
+  <summary>Main repositories</summary>
+  <a  href="https://github.com/GABRYCA/tales-sharing-website">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gabryca&repo=tales-sharing-website&theme=radical" />
+  </a>
+  <a href="https://github.com/GABRYCA/Algoritmi_scuola">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gabryca&repo=Algoritmi_scuola&theme=radical" />
+  </a>
 </details>
 
 <p align="center">
