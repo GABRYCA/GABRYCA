@@ -28,7 +28,7 @@
 <hr>
 
 <p align="center">
-  <a href=#><img src="contributions.svg"></a>
+  <a href=#><img src="contribution.svg"></a>
 </p>
 
 <br>
