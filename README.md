@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning: **Java, Bootstrap, C, C++, C#, Node.js, PHP, HTML, CSS, JQuery, Javascript, Assembly, Arduino.**
 
-- 🔭 I'm currently working on <a href="https://github.com/GABRYCA/tales-sharing-website">tales</a> and paid websites (<a href="https://mzeyfilms.eu">example</a>).
+- 🔭 I'm currently working on <a href="https://github.com/GABRYCA/tales-sharing-website">tales</a> and paid websites (<a href="https://mzeyfilms.com">example</a>).
 
 - 🎆 Personal Website: <a href="https://anonymousgca.eu/">Visit!</a>
   
