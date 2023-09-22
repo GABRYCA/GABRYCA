@@ -2,7 +2,7 @@
 
 <h2>Get in contact on discord: <a href="https://discord.io/anonymousgca">Click me!</a></h2>
 
-- 🌱 I’m currently learning: **Java, Bootstrap, C, C++, C#, Node.js, PHP, HTML, CSS, JQuery, Javascript, Assembly, Arduino.**
+- 🌱 I’m currently learning: **Java, Bootstrap, C, C++, C#, Node.js, PHP, HTML, CSS, JQuery, Javascript, SvelteKit, Flutter, Assembly, Arduino.**
 
 - 🔭 I'm currently working on <a href="https://github.com/GABRYCA/tales-sharing-website">tales</a> and paid websites (<a href="https://mzeyfilms.com">example</a>).
 
