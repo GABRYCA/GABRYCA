@@ -10,7 +10,7 @@
 
 ### 💖 Support me
 
-If you like my work and want to show some appreciation, you can buy me a coffee or send me a donation via PayPal. Your support means a lot to me and helps me continue creating awesome projects. Thank you! ☕
+If you like my work and want to show some appreciation, you can <a href="https://ko-fi.com/anonymousgca">buy me a coffee</a> or send me a donation via <a href="https://www.paypal.com/paypalme/AnonymousGCA">PayPal</a>. Your support means a lot to me and helps me continue creating awesome projects. Thank you! ☕
   
 <hr>
 <br>
