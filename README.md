@@ -11,6 +11,8 @@
 ### 💖 Support me
 
 If you like my work and want to show some appreciation, you can <a href="https://ko-fi.com/anonymousgca">buy me a coffee</a> or send me a donation via <a href="https://www.paypal.com/paypalme/AnonymousGCA">PayPal</a>. Your support means a lot to me and helps me continue creating awesome projects. Thank you! ☕
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3PHRGS)
   
 <hr>
 <br>
