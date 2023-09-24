@@ -1,10 +1,10 @@
 ### 👋 Hi, I'm AnonymousGCA (aka GABRYCA)
 
-<h2>Let's connect on Discord: <a href="https://discord.io/anonymousgca">Click here!</a></h2>
+<h2>Let's connect on Discord: <a href="https://discord.gg/RSp2CSuMny">Click here!</a></h2>
 
 - 🌱 I’m currently learning: **Java, Bootstrap, C, C++, C#, Node.js, PHP, HTML, CSS, JQuery, Javascript, SvelteKit, Flutter, Assembly, Arduino.**
 
-- 🔭 I'm currently working on <a href="https://github.com/GABRYCA/tales-sharing-website">tales</a>, a website where you can share your stories and read others'. I also create paid websites for clients (<a href="https://mzeyfilms.com">example</a> and <a href="https://ristoranteaquazzurra.netlify.app/">example 2</a>). If you need a website (paid) or just want to <strong>support me in pursuing my Bachelor's degree</strong>, feel free to <a href="https://discord.io/anonymousgca">contact me</a> or send me a <a href="https://www.paypal.com/paypalme/AnonymousGCA">donation</a>.
+- 🔭 I'm currently working on <a href="https://github.com/GABRYCA/tales-sharing-website">tales</a>, a website where you can share your stories and read others'. I also create paid websites for clients (<a href="https://mzeyfilms.com">example</a> and <a href="https://ristoranteaquazzurra.netlify.app/">example 2</a>). If you need a website (paid) or just want to <strong>support me in pursuing my Bachelor's degree</strong>, feel free to <a href="https://discord.gg/RSp2CSuMny">contact me</a> or send me a <a href="https://www.paypal.com/paypalme/AnonymousGCA">donation</a>.
 
 - 🎆 Personal Website: <a href="https://anonymousgca.eu/">Check it out!</a>
 
