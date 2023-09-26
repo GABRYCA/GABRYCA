@@ -52,7 +52,7 @@ If you like my work and want to show some appreciation, you can <a href="https:/
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,py,java,c,cpp,cs,js,css,html,bootstrap,svelte,netlify,jquery,flutter" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,py,java,flutter,netlify,c,cpp,cs,css,html,js,bootstrap,svelte,jquery" />
     <br>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,linux,raspberrypi,arduino,ps,ai" />
   </a>
