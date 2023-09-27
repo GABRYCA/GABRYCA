@@ -48,7 +48,7 @@ If you like my work and want to show some appreciation, you can <a href="https:/
 <br>
 <br>
 
-<h2 align="center">Skills </h2>
+<h2 align="center">Skills/Learning </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
