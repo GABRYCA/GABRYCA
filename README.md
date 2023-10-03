@@ -17,7 +17,6 @@ If you like my work and want to show some appreciation, you can <a href="https:/
 <hr>
 <br>
 
-
 <p align="center">
   <a href="https://github.com/gabryca">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gabryca&show_icons=true&include_all_commits=true&theme=radical&count_private=true" alt="AnonymousGCA's github stats" />
