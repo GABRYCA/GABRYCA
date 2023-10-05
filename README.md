@@ -25,7 +25,7 @@ If you like my work and want to show some appreciation, you can <a href="https:/
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabryca&theme=radical&layout=compact"/>
     <br>
     <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabryca&theme=radical"/>
+    <img src="https://streak-stats.demolab.com/?user=gabryca&theme=radical"/>
   </a>
 </p>
 
