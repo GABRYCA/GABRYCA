@@ -59,7 +59,7 @@ If you like my work and want to show some appreciation, you can <a href="https:/
 </p>
 
 <details align="center">
-  <summary>Main repositories</summary>
+  <summary>Main Sources</summary>
   <a  href="https://github.com/GABRYCA/tales-sharing-website">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gabryca&repo=tales-sharing-website&theme=radical" />
   </a>
