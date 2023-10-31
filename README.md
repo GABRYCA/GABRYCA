@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm AnonymousGCA (aka GABRYCA)
 
-<h2>Let's connect on Discord: <a href="https://discord.gg/RSp2CSuMny">Click here!</a></h2>
+## Let's connect on Discord: [Click Here!](https://discord.gg/RSp2CSuMny)
 
 - 🌱 I’m currently learning: **Java, Bootstrap, C, C++, C#, Node.js, PHP, HTML, CSS, JQuery, Javascript, SvelteKit, Flutter, Assembly, Arduino.**
 
