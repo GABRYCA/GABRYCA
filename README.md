@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning: **Java, Bootstrap, C, C++, C#, Node.js, PHP, HTML, CSS, JQuery, Javascript, SvelteKit, Flutter, Assembly, Arduino.**
 
-- 🔭 I'm currently working on <a href="https://github.com/GABRYCA/tales-sharing-website">tales</a>, a website where you can share your stories and read others'. I also create paid websites for clients (<a href="https://mzeyfilms.com">example</a> and <a href="https://ristoranteaquazzurra.netlify.app/">example 2</a>). If you need a website **(paid)** or just want to <strong>support me in pursuing my Bachelor's degree</strong>, feel free to <a href="https://discord.gg/RSp2CSuMny">contact me</a> or send me a <a href="https://www.paypal.com/paypalme/AnonymousGCA">donation</a>.
+- 🔭 I'm currently working on [tales](https://github.com/GABRYCA/tales-sharing-website), a website where you can share your stories and read others'. I also create paid websites for clients ([example](https://mzeyfilms.com) and [example 2](https://ristoranteaquazzurra.netlify.app/). If you need a website **(paid)** or just want to <strong>support me in pursuing my Bachelor's degree</strong>, feel free to [contact me](https://discord.gg/RSp2CSuMny) or send me a [donation](https://www.paypal.com/paypalme/AnonymousGCA).
 
-- 🎆 Personal Website: <a href="https://anonymousgca.eu/">Check it out!</a>
+- 🎆 Personal Website: [Check it out!](https://anonymousgca.eu/)
 
 ### 💖 Support me
 
-If you like my work and want to show some appreciation, you can <a href="https://ko-fi.com/anonymousgca">buy me a coffee</a> or send me a donation via <a href="https://www.paypal.com/paypalme/AnonymousGCA">PayPal</a>. Your support means a lot to me and helps me continue creating awesome projects. Thank you! ☕
+If you like my work and want to show some appreciation, you can [buy me a coffee](https://ko-fi.com/anonymousgca) or send me a donation via [PayPal](https://www.paypal.com/paypalme/AnonymousGCA). Your support means a lot to me and helps me continue creating awesome projects. Thank you! ☕
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3PHRGS)
   
@@ -60,7 +60,7 @@ If you like my work and want to show some appreciation, you can <a href="https:/
 
 <details align="center">
   <summary>Main Sources</summary>
-  <a  href="https://github.com/GABRYCA/tales-sharing-website">
+  <a href="https://github.com/GABRYCA/tales-sharing-website">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gabryca&repo=tales-sharing-website&theme=radical" />
   </a>
   <a href="https://github.com/GABRYCA/Algoritmi_scuola">
