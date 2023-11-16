@@ -4,7 +4,7 @@
 
 - 🚧 I’ve worked  with: **Java, Bootstrap, C, C++, C#, Node.js, PHP, HTML, CSS, JQuery, Javascript, SvelteKit, Python, Django, Flutter, Assembly, Arduino.**
 
-- 🔭 I'm currently working on [tales](https://github.com/GABRYCA/tales-sharing-website), a website where you can share your stories. I also create paid websites for clients ([example](https://mzeyfilms.com) and [example 2])(https://ristoranteaquazzurra.netlify.app/). If you need a website **(paid)** or just want to <strong>support me</strong>, feel free to [contact me](https://discord.gg/RSp2CSuMny) or send me a [donation](https://www.paypal.com/paypalme/AnonymousGCA).
+- 🔭 I'm currently working on [tales](https://github.com/GABRYCA/tales-sharing-website), a website where you can share your stories. I also create paid websites for clients ([example](https://mzeyfilms.com) and [example 2](https://ristoranteaquazzurra.netlify.app/)). If you need a website **(paid)** or just want to <strong>support me</strong>, feel free to [contact me](https://discord.gg/RSp2CSuMny) or send me a [donation](https://www.paypal.com/paypalme/AnonymousGCA).
 
 - 🎆 Personal Website: [Check it out!](https://anonymousgca.eu/)
 
@@ -52,7 +52,7 @@ If you like my work and want to show some appreciation, you can [buy me a coffee
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,py,django,java,flutter,netlify,c,cpp,cs,css,html,js,bootstrap,svelte,jquery" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,py,django,java,spring,maven,gradle,flutter,netlify,cloudflare,github,nodejs,c,cpp,cs,css,html,js,bootstrap,svelte,jquery,nginx,docker,postman" />
     <br>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,linux,raspberrypi,arduino,ps,ai" />
   </a>
