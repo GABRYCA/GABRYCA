@@ -52,7 +52,7 @@ If you like my work and want to show some appreciation, you can [buy me a coffee
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,py,django,java,spring,maven,gradle,flutter,netlify,cloudflare,github,nodejs,c,cpp,cs,css,html,js,bootstrap,svelte,jquery,nginx,docker,heroku,postman" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,py,django,java,spring,maven,gradle,flutter,netlify,cloudflare,azure,github,nodejs,c,cpp,cs,css,html,js,bootstrap,svelte,jquery,nginx,docker,heroku,postman" />
     <br>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,linux,raspberrypi,arduino,ps,ai" />
   </a>
