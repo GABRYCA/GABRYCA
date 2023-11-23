@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm AnonymousGCA (aka GABRYCA)
 
-## Let's connect on Discord: [Click Here!](https://discord.gg/RSp2CSuMny)
+## Contact me on Discord: [Click Here!](https://discord.gg/RSp2CSuMny)
 
 - 🚧 I’ve worked  with: **Java, Bootstrap, C, C++, C#, Node.js, PHP, HTML, CSS, JQuery, Javascript, SvelteKit, Python, Django, Flutter, Assembly, Arduino.**
 
