@@ -4,7 +4,7 @@
 
 - 🚧 I’ve worked  with: **Java, Bootstrap, C, C++, C#, Node.js, PHP, HTML, CSS, JQuery, Javascript, SvelteKit, Python, Django, Flutter, Assembly, Arduino.**
 
-- 🔭 I'm currently working on [tales](https://github.com/GABRYCA/tales-sharing-website), a website where you can share your stories. I also create paid websites for clients ([example](https://mzeyfilms.com) and [example 2](https://ristoranteaquazzurra.netlify.app/)). If you need a website **(paid)** or just want to <strong>support me</strong>, feel free to [contact me](https://discord.gg/RSp2CSuMny) or send me a [donation](https://www.paypal.com/paypalme/AnonymousGCA).
+- 🔭 I'm sunsetting [tales](https://github.com/GABRYCA/tales-sharing-website), a website where you can share your stories. However I make paid websites for clients ([example](https://mzeyfilms.com) and [example 2](https://ristoranteaquazzurra.netlify.app/)). If you need a website or just want to **support me**, feel free to [contact me](https://discord.gg/RSp2CSuMny) or send me a [donation](https://www.paypal.com/paypalme/AnonymousGCA).
 
 - 🎆 Personal Website: [Check it out!](https://anonymousgca.eu/)
 
