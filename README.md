@@ -4,7 +4,7 @@
 
 - 🚧 I’ve worked  with: **Java, Bootstrap, C, C++, C#, Node.js, PHP, HTML, CSS, JQuery, Javascript, SvelteKit, Python, Django, Flutter, Assembly, Arduino.**
 
-- 🔭 I build paid websites for customers ([example](https://mzeyfilms.com) and [example 2](https://ristoranteaquazzurrasveltekit.netlify.app/)). If you need one or would like to **support me**,please [contact me](https://discord.gg/RSp2CSuMny) or send me a [donation](https://www.paypal.com/paypalme/AnonymousGCA).
+- 🔭 I build paid websites for customers ([example](https://mzeyfilms.com) and [example 2](https://ristoranteaquazzurrasveltekit.netlify.app/)). If you need one or would like to **support me**, please [contact me](https://discord.gg/RSp2CSuMny) or send me a [donation](https://www.paypal.com/paypalme/AnonymousGCA).
 
 - 🎆 Personal Website: [Check it out!](https://anonymousgca.eu/)
 
