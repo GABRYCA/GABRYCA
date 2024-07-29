@@ -4,13 +4,13 @@
 
 - 🚧 I’ve worked  with: **Java, Bootstrap, C, C++, C#, Node.js, PHP, HTML, CSS, JQuery, Javascript, SvelteKit, Python, Django, Flutter, Assembly, Arduino.**
 
-- 🔭 I'm sunsetting [tales](https://github.com/GABRYCA/tales-sharing-website), a website where you can share your stories. However I make paid websites for customers ([example](https://mzeyfilms.com) and [example 2](https://ristoranteaquazzurrasveltekit.netlify.app/)). If you need a website or would like to **support me**, feel free to [contact me](https://discord.gg/RSp2CSuMny) or send me a [donation](https://www.paypal.com/paypalme/AnonymousGCA).
+- 🔭 I build paid websites for customers ([example](https://mzeyfilms.com) and [example 2](https://ristoranteaquazzurrasveltekit.netlify.app/)). If you need one or would like to **support me**,please [contact me](https://discord.gg/RSp2CSuMny) or send me a [donation](https://www.paypal.com/paypalme/AnonymousGCA).
 
 - 🎆 Personal Website: [Check it out!](https://anonymousgca.eu/)
 
 ### 💖 Support me
 
-If you like my work and want to show some appreciation, you can [buy me a coffee](https://ko-fi.com/anonymousgca) or send me a donation via [PayPal](https://www.paypal.com/paypalme/AnonymousGCA). Your support means a lot to me and helps me continue creating awesome projects. Thank you! ☕
+You can support me by [buying me a coffee](https://ko-fi.com/anonymousgca) or sending me a donation via [PayPal](https://www.paypal.com/paypalme/AnonymousGCA). Your support means a lot to me and helps me continue creating awesome projects. Thank you! ☕
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3PHRGS)
   
