@@ -10,7 +10,7 @@
 
 ### 💖 Support me
 
-You can support me by [buying me a coffee](https://ko-fi.com/anonymousgca) or sending me a donation via [PayPal](https://www.paypal.com/paypalme/AnonymousGCA). Your support means a lot to me and helps me continue creating awesome projects. Thank you! ☕
+You can support me by [buying me a coffee](https://ko-fi.com/anonymousgca) or sending me a donation via [PayPal](https://www.paypal.com/paypalme/AnonymousGCA). Your support means a lot and helps me support my projects. Thank you! ☕
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3PHRGS)
   
