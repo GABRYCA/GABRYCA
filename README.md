@@ -1,5 +1,7 @@
 ### 👋 Hi, I'm AnonymousGCA (aka GABRYCA)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5CECF7&center=true&vCenter=true&random=true&width=435&lines=GCA's_+Web-Developer;GCA's_+Svelte%2BSvelteKit+enthusiast;GCA's_+Hackathon+Staff;GCA's_+Passionate+Developer)](https://git.io/typing-svg)
+
 ## Contact me on Discord: [Click Here!](https://discord.gg/RSp2CSuMny)
 
 - 🚧 Experience with: **Java, Bootstrap, C, C++, C#, Node.js, PHP, HTML, CSS, JQuery, Javascript, SvelteKit, Python, Django, Flutter, Assembly, Arduino.**
