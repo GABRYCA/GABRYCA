@@ -97,7 +97,7 @@ const anonymousGCA = {
 <div align="center">
 
 ### 🎭 Artigianato Online Website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryca&repo=ArtigianatoOnline&theme=radical&bg_color=0D1117&title_color=5CECF7&text_color=ffffff)](https://github.com/GABRYCA/tales-sharing-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryca&repo=ArtigianatoOnline&theme=radical&bg_color=0D1117&title_color=5CECF7&text_color=ffffff)](https://github.com/GABRYCA/ArtigianatoOnline)
 
 ### 📚 School Algorithms Collection
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryca&repo=Algoritmi_scuola&theme=radical&bg_color=0D1117&title_color=5CECF7&text_color=ffffff)](https://github.com/GABRYCA/Algoritmi_scuola)
