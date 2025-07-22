@@ -21,7 +21,7 @@
 ```javascript
 const anonymousGCA = {
     code: ["JavaScript", "Java", "Python", "C++", "PHP", "Dart"],
-    askMeAbout: ["web dev", "frontend", "backend", "svelte", "flutter"],
+    askMeAbout: ["web dev", "frontend", "backend", "svelte"],
     technologies: {
         frontend: {
             js: ["SvelteKit", "jQuery", "Bootstrap"],
