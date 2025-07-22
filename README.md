@@ -168,6 +168,7 @@ Your support fuels my passion for creating amazing digital experiences! ☕
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-%23FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/anonymousgca)
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-%2300457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/AnonymousGCA)
+[![PayPal](https://img.shields.io/badge/Stripe-Donate-%2300457C?style=for-the-badge&logo=stripe&logoColor=white)](https://donate.stripe.com/3cscPteRbcOh716bII)
 
 ### 🤝 Let's Connect & Collaborate!
 
