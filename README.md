@@ -78,10 +78,6 @@ const anonymousGCA = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabryca&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=5CECF7&fire=5CECF7&currStreakLabel=5CECF7" alt="GitHub Streak Stats"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabryca&theme=redical&bg_color=0D1117&color=5CECF7&line=5CECF7&point=FFFFFF&hide_border=true" width="100%"/>
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
